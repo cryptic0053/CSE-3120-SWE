@@ -21,8 +21,8 @@ public class test {
     public static void main(String[] args){
         person p1=new Student();
         person p2=new Teacher();
-        //Student s1=new person();
         p1.act();
         p2.act();
+        System.out.println(((Student)p1).roll);
     }
 }
