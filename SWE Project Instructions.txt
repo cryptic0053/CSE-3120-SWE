@@ -1,0 +1,19 @@
+CSE 3120: Software Engineering and Information Systems Laboratory
+
+Group Project(3 person)
+
+Instructions:
+1. UI based app banante hobe...Console app na..
+
+2.Desktop / Android (any)
+
+3.Team -> Github Maintain -> Collaboration 
+
+4.prottek feature er jonno Unit Testing function, proper debug method follow kora,corner case handle 
+
+5.Design pattern gula follow kora, jekhane jeta use kora jay
+
+6.App er class - interface - function er documentation generate kora JavaDoc diya
+
+Project idea submission tracker:
+https://docs.google.com/spreadsheets/d/116fZc5SiSR6EIGtEJYGp-tUMKj1WK4FwjSQW5eWPo7w/edit?usp=sharing
